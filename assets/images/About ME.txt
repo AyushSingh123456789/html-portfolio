@@ -1,0 +1,5 @@
+My name is Ayush Singh.
+I'm a 1st year B.Tech Student at R.P Sharma Institute of Technology, Patna, Session: 2024-28.
+I have great interest in Web development and currently learning HTML.
+I am  also learning Python, which is in my current syllabus, along with C++ for the DSA.
+I have learnt the very basics of C programming in my 1st semester, for my semester exams.
